@@ -1,31 +1,5 @@
-# ISS-tracking-with-ESP32
-My goal and target: See the International Space Station ISS flying over my head... (;-)
-
-Thanks to Pushpendra of India I modified this Arduino script (assisted by chatgpt-thanks) to track the ISS and have chance to see it live if weather permits...
-
-I was motivated by Pushpendra and his small project: https://www.instructables.com/ISSInternational-Space-Station-Tracker/
-
-As I had a ESP32-WROOM-32 around but was too lazy to attach that many LEDs I used my LCD display with 2 lines and 16 block characters to show me the distance to the ISS and its position...
-
-Displays live ISS coordinates, distance in km, and signals when it’s nearby.
-
-## Setup
-- ESP32-WROOM-32
-- I2C 16x2 LCD display
-- Green + White LEDs
-- Active buzzer
-
-## Demo
-
 ![ISS Tracker Setup](https://raw.githubusercontent.com/BernhardFW/ISS-tracking-with-ESP32/main/images/20251107_123037.png)
 
-The code you will find in the above directory.
-Make shure you have added libraries as imported on top...
-The "wiring" is pretty much straight forward and you find it in the "wiring" directory.
-
-If the display does not show anything, try to adjust the 
-
-<img src ="https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/images/20251107_123037.png" width=400px>
 
 # 🛰️ ISS Tracking with ESP32
 
@@ -63,6 +37,13 @@ If the display does not show anything, try to adjust the
   - `Arduino_JSON`
   - `LiquidCrystal_I2C`
 
+The code you will find in the above directory.
+Make shure you have added libraries as imported on top...
+The "wiring" is pretty much straight forward and you find it in the "wiring" directory.
+
+If the display does not show anything, try to adjust the potentiometer.
+
+<img src ="https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/images/20251107_123037.png" width=400px>
 ---
 
 ## 🌍 Features
