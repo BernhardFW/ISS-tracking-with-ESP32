@@ -8,5 +8,7 @@
 | LCD VCC   | 5 V       | or 3.3 V if marked “3.3 V compatible” |
 | LCD GND   | GND       | Common ground                         |
 
+Turn the blue potentiometer on the small PCB on the back of the LCD to adjust text visibility.
+
 Courtesy of my friend at chatgpt
 
