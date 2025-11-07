@@ -10,4 +10,4 @@ As I had a ESP32-WROOM-32 around but was too lazy to attach that many LEDs I use
 The code you will find in the above directory.
 Make shure you have added libraries as imported on top...
 
-<img src ="https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/images/20251107_123037.png">
+<img src ="https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/images/20251107_123037.png" width=400px>
