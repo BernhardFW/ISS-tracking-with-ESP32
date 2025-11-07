@@ -1,6 +1,3 @@
-![ISS Tracker Setup](https://raw.githubusercontent.com/BernhardFW/ISS-tracking-with-ESP32/main/images/20251107_123037.png)
-
-
 # 🛰️ ISS Tracking with ESP32
 
 [![Platform](https://img.shields.io/badge/platform-ESP32-blue.svg)](https://www.espressif.com/en/products/socs/esp32)
@@ -25,7 +22,7 @@
 
 ## 🖼️ Demo
 
-![ISS Tracker Setup](https://raw.githubusercontent.com/BernhardFW/ISS-tracking-with-ESP32/main/images/20251107_123037.png)
+<img src ="https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/images/20251107_123037.png" width=400px>
 
 ---
 
@@ -43,7 +40,6 @@ The "wiring" is pretty much straight forward and you find it in the "wiring" dir
 
 If the display does not show anything, try to adjust the potentiometer.
 
-<img src ="https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/images/20251107_123037.png" width=400px>
 ---
 
 ## 🌍 Features
