@@ -1,7 +1,7 @@
 # ISS-tracking-with-ESP32
 My goal and target: See the ISS flying over my head... (;-)
 
-Thanks to Pushpendra of India I modified this Arduino script (assisted by chatgpt-thanks) to track the ISS and have chance to see it live if wether permits...
+Thanks to Pushpendra of India I modified this Arduino script (assisted by chatgpt-thanks) to track the ISS and have chance to see it live if weather permits...
 
 I was motivated by Pushpendra and his small project: https://www.instructables.com/ISSInternational-Space-Station-Tracker/
 
