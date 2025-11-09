@@ -9,8 +9,8 @@
 > 🛰️ Track the International Space Station in real time using an ESP32, LCD display, LEDs, and a buzzer!  
 > Displays live ISS position and distance in kilometers and gives visual/audible alerts when it’s nearby.
 
-Thanks to Pushpendra of India I modified the Arduino script (assisted by chatgpt-thanks) to track the ISS and have chance to see it live if wether permits...
-He has a pretty good documentation on this here: https://www.instructables.com/ISSInternational-Space-Station-Tracker/
+Thanks to Pushpendra of India I modified the Arduino script (assisted by chatgpt-thanks) to track the ISS and have a chance to see it live if weather permitting...
+Pushpendra has a pretty good documentation on this here: https://www.instructables.com/ISSInternational-Space-Station-Tracker/
 
 
 ---
