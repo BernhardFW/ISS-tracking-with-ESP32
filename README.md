@@ -28,6 +28,11 @@ He has a pretty good documentation on this here: https://www.instructables.com/I
 
 <img src ="https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/images/20251107_123037.png" width=400px>
 
+In Code Version3 (iss_trackerv3.ino) I have added three alteranting pages on the display as follows:
+
+<img src ="https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/images/20251109_161727.jpg" width=400px>
+
+<img src ="https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/images/20251109_161727.jpg" width=400px>  
 ---
 
 ## ⚙️ Software
