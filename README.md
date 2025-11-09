@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/badge/platform-ESP32-blue.svg)](https://www.espressif.com/en/products/socs/esp32)
 [![Language](https://img.shields.io/badge/language-C++-orange.svg)](https://www.arduino.cc/)
 [![Made with Arduino](https://img.shields.io/badge/Made%20with-Arduino-00979D.svg?logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![License](https://img.shields.io/github/license/BernhardFW/ISS-tracking-with-ESP32)](https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/BernhardFW/ISS-tracking-with-ESP32)]([https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/LICENSE](https://github.com/BernhardFW/ISS-tracking-with-ESP32/tree/main?tab=License-1-ov-file))
 [![GitHub last commit](https://img.shields.io/github/last-commit/BernhardFW/ISS-tracking-with-ESP32)](https://github.com/BernhardFW/ISS-tracking-with-ESP32/commits/main)
 
 > 🛰️ Track the International Space Station in real time using an ESP32, LCD display, LEDs, and a buzzer!  
