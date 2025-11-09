@@ -28,7 +28,7 @@ Pushpendra has a pretty good documentation on this here: https://www.instructabl
 
 <img src ="https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/images/20251107_123037.png" width=400px>
 
-In Code Version3 (iss_trackerv3.ino) with my friend from ChatGPT I have added three alternating pages on the display as follows:
+In Code Version3 (iss_trackerv3.ino) I have added two additional alternating pages on the display as follows:
 
 <img src ="https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/images/20251109_161727.png" width=400px>
 Showing the ISS location over s.th. like "Atlantic Ocean" or "Read Sea" or "Kuwait City" and "Harad/Iran"... in that order... 
