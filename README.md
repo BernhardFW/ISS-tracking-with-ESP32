@@ -32,7 +32,7 @@ In Code Version3 (iss_trackerv3.ino) I have added two additional alternating pag
 
 <img src ="https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/images/20251109_161727.png" width=400px>
 Showing better understandablen ames of the actual ISS locations fliying over s.th. like "Atlantic Ocean" or "Read Sea" or "Kuwait City" or "Harad/Iran"...
-This is based on a "reverse-geocode function" provided by <a target=new href="https://api.bigdatacloud.com">https://api.bigdatacloud.com</a>
+This is based on a "reverse-geocode function" provided by <a target=new href="https://bigdatacloud.com">https://bigdatacloud.com</a>
 
 <img src ="https://github.com/BernhardFW/ISS-tracking-with-ESP32/blob/main/images/20251109_161733.png" width=400px>  
 showing the Next: 12.11.18:59 date overflying me... (in Germany) and the 
