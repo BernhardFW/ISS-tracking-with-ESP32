@@ -1,7 +1,9 @@
-| Component | ESP32 Pin | Notes                                 |
+Wiring of the 1602 2-line LCD block-display with 16 blocks 
+
+| component | ESP32 Pin | Notes                                 |
 | --------- | --------- | ------------------------------------- |
 | White LED | GPIO 25   | Add 220 Ω resistor to ground          |
-| Green LED | GPIO 33   | add 220 Ω resistor to ground         |
+| Green LED | GPIO 33   | add 220 Ω resistor to ground          |
 | LCD SDA   | GPIO 21   | Default I²C data                      |
 | LCD SCL   | GPIO 22   | Default I²C clock                     |
 | Buzzer    | GPIO 23   | As in code                            |
